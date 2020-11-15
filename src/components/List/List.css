@@ -1,0 +1,20 @@
+/**
+    Styles applied to the List component that displays the todo items
+ */
+.todo-list {
+    flex-direction: column;
+    list-style: none;
+    overflow: auto;
+    flex-grow: 1;
+    align-items: center;
+    padding-bottom: 24px;
+    display: flex;
+    height: 75vh;
+    word-break: break-all;
+}
+
+ul,
+li {
+    padding: 0;
+    margin: 0;
+}
