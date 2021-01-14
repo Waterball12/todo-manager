@@ -1,7 +1,7 @@
 # TODO Manager
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/Waterball12/todo-manager/blob/main/public/todo-app.png?raw=true">
+  <img src="https://github.com/Waterball12/todo-manager/blob/main/public/todo-app.png?raw=true">
 </p>
 
 ## Installation requirements
