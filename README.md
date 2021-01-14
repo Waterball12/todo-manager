@@ -48,9 +48,9 @@ Waiting till it create a build. Afterwards you'll be able to navigate to http://
 
 ## Future features
 
-[x] Integrate add
-[x] Integrate remove
-[ ] Add edit the current todo's
-[ ] Create a logo
-[ ] Add animations
-[ ] Improve scrollbar on desktop view when there're many todo's
+- [x] Integrate add
+- [x] Integrate remove
+- [ ] Add edit the current todo's
+- [ ] Create a logo
+- [ ] Add animations
+- [ ] Improve scrollbar on desktop view when there're many todo's
